@@ -1,12 +1,10 @@
 <h1 align="center">📺 Análise Netflix 📺</h1>
 
 <div align="center">
-<img src=" "/>
-
+<img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/606f7d72-d208-4c12-9a0b-df77108287ec"/ width="400px">
 </div>
 
---------
- -------
+-------
 ### 📍 Observações 📍
 O processo de análise foi baseado em 3 etapas principais:
 
@@ -27,6 +25,26 @@ Este projeto foi proposto na matéria de Programação Orientada a Objetos. Fora
 * ✔️ Pandas
 * ✔️ Matplotlib
 * ✔️ Seaborn
+--------
+-------
+ ### 📊 Gráficos obtidos.📊
+* Mais assistidos entre filmes e séries
+<div align="center">
+<img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/606f7d72-d208-4c12-9a0b-df77108287ec"/ width="400px">
+</div>
+
+* Categorias mais produzidas em 2021
+<div align="center">
+<img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/606f7d72-d208-4c12-9a0b-df77108287ec"/ width="400px">
+</div>
+<div align="center">
+<img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/606f7d72-d208-4c12-9a0b-df77108287ec"/ width="400px">
+</div>
+
+* Comparação de lançamento de filmes dos últimos 10 anos.
+<div align="center">
+<img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/606f7d72-d208-4c12-9a0b-df77108287ec"/ width="400px">
+</div>
 --------
 -------
  ### 🛣 Como usar 🛣
