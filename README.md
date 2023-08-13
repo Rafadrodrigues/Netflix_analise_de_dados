@@ -15,7 +15,7 @@ O processo de análise foi baseado em 3 etapas principais:
 --------
  -------
 ### 🎯 Contexto 🎯
-* Esse projeto foi desenvolvido afim de fortalecer meus conhecimentos com as tecnologias de Análise de Dados. Para isso, utilizando um DataFrame que
+* Esse projeto foi desenvolvido afim de fortalecer meus conhecimentos com as tecnologias de Análise de Dados. Para isso, utilizando um DataFrame que foi baixado do site da Kaggle.
 
 --------
 -------
@@ -27,7 +27,7 @@ Este projeto foi proposto na matéria de Programação Orientada a Objetos. Fora
 * ✔️ Seaborn
 --------
 -------
- ### 📊 Gráficos obtidos.📊
+ ### 📊 Alguns gráficos obtidos.📊
 * Mais assistidos entre filmes e séries
 <div align="center">
 <img src="https://github.com/Rafadrodrigues/Projeto_analista_de_dados/assets/104935995/ebb0040a-35a7-41b9-92bd-53b6376d1484"/ width="500px">
