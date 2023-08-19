@@ -9,8 +9,9 @@
 O processo de análise foi baseado em 3 etapas principais:
 
 * Os dados foram pegos no site da Kaggle.
-* Criação dos gráficos com a biblioteca Seaborn e Matplotlib.
 * Site do Kaggle: https://www.kaggle.com/code/chirag9073/netflix-data-analysis
+* Criação dos gráficos com a biblioteca Seaborn e Matplotlib.
+* Futuramente, pretendo realizar mais extrações do dataframe
 
 --------
  -------
@@ -20,7 +21,7 @@ O processo de análise foi baseado em 3 etapas principais:
 --------
 -------
  ### 🚀 Tecnologias 🚀
-Este projeto foi proposto na matéria de Programação Orientada a Objetos. Foram utilizadas as tecnologias:
+Foram utilizadas as tecnologias:
 * ✔️ Python
 * ✔️ Pandas
 * ✔️ Matplotlib
@@ -53,7 +54,7 @@ $ cd Projeto_analista_de_dados
 --------
 
 -------
- ### 👨‍💻 Desenvolvedores 👨‍💻
+ ### 👨‍💻 Desenvolvedor 👨‍💻
 * <a>https://github.com/Rafadrodrigues</a>
 --------
  -------
